@@ -51,12 +51,13 @@
 			if (isset($_POST["name"]) && isset($_POST["age"]) && isset($_POST["phone"]) && 
 				isset($_POST["email"]) && isset($_POST["addr"]) && isset($_POST["quali"]) && isset($_POST["submit"]))
 			{
-				echo '<p class="output">Name: '. $_POST["name"] . '</p>';    
-				echo '<p class="output">Address: '. $_POST["addr"] . '</p>';    
-				echo '<p class="output">Age: '. $_POST["age"] . '</p>';    
-				echo '<p class="output">Mobile: '. $_POST["phone"] . '</p>';    
-				echo '<p class="output">Email: '. $_POST["email"] . '</p>';    
-				echo '<p class="output">Qualification: '. $_POST["quali"] . '</p>';    
+				echo '
+				<p class="output">Name: '. $_POST["name"] . '</p>
+				<p class="output">Address: '. $_POST["addr"] . '</p>
+				<p class="output">Age: '. $_POST["age"] . '</p>
+				<p class="output">Mobile: '. $_POST["phone"] . '</p>
+				<p class="output">Email: '. $_POST["email"] . '</p>
+				<p class="output">Qualification: '. $_POST["quali"] . '</p>';
 			}
 		?>
 	</body>
