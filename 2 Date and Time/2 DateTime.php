@@ -35,6 +35,7 @@
 			
 				 <tr align="center"><td>Time in 12-Hour Format:</td>
 				 <td>'.date("h : i : s a").'</br></td></tr>
+				 
 				 <tr align="center"><td>Time in 24-Hour Format:</td>
 				 <td>'.date("H : i : s ").'</br></td></tr>
 				 </table>';
