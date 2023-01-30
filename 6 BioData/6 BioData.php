@@ -7,46 +7,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Bio Data</title>
 		<link rel="stylesheet" href="BioDataStyle.css">
-		<style>
-			body{
-				background-color:lightgreen;
-			}
-			.heading{
-				font-family: 'Franklin Gothic Medium', sans-serif;
-				text-align: center;
-				font-size: 40px;
-			}
-			.inputs
-			{
-				font-size: 20px;
-				font-family: 'Trebuchet MS', sans-serif;
-				display: flex;
-				justify-content: center;
-			}
-			.inputs label
-			{
-				margin-right: 20px;
-			}
-			.inputs .input-box
-			{
-				display: table-column;
-				outline: none;
-				border-style: none;
-				background-color: lightgreen;
-				border-bottom: 1px solid black;
-			}
-			.inputs #submit
-			{
-				width: 100px;
-			}
-			.output
-			{
-				display: flex;
-				justify-content: center;
-				font-family: 'Arial Narrow Bold', sans-serif;
-				font-size: 20px;
-			}
-		</style>
 	</head>
 	
 	<body>
