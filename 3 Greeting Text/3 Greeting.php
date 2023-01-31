@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Greeting Message</title>
-		<link rel="stylesheet" href="Greetingtyle.css">
+		<link rel="stylesheet" href="GreetingStyle.css">
 	</head>
 
 	<body>
