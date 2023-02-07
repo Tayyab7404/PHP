@@ -1,0 +1,22 @@
+body
+{
+	background-color: lightgreen;
+}
+
+.input
+{
+	width: 400px;
+	height: 250px;
+}
+
+.submit
+{
+	width: 400px;
+	height: 80px;
+	background-color: azure;
+}
+
+.row
+{
+	background-color: skyblue;
+}
